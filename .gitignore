@@ -1,2 +1,5 @@
 .env
 .ipynb_chekpoints
+feedback_data.csv
+feedback_analysis_results.txt
+sentiment_examples.txt
